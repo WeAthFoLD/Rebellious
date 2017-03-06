@@ -2,7 +2,7 @@
 
 A 2D tech-style platformer. A project for me to learn the basic usage of Unity engine.
 
-![](screenshot.jpg)
+![](entry.jpg)
 ![](screenshot.jpg)
 
 Code license: MIT
